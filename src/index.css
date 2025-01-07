@@ -120,3 +120,8 @@ font-weight: 500;
   display: flex;
   
 }
+
+
+.hover:hover {
+  background-color: rgba(0, 0, 0, 0.274);
+}
